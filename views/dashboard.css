@@ -1,0 +1,40 @@
+.buttonend{
+  background-color: red;
+
+}
+.logo{
+  width:80px;
+
+}
+.payback{
+  width:350px;
+  height: 180px;
+clear:both
+}
+.rem{
+  width:25%;
+  float:left;
+  border-radius: 10px;
+  margin-left: 55px;
+  margin-top: 6px;
+
+}
+.status{
+  clear:both;
+}
+.panel{
+  margin-top: 20px;
+  padding-bottom: 0px;
+  border-radius: 10px;
+  background-color: #F6A623;
+}
+,panel-body{
+padding:20px;
+background-color: #F6A623;
+}
+.rem2{
+  padding:10px;
+}
+h1,h2{
+  color: white;
+}
